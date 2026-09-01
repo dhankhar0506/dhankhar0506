@@ -38,13 +38,14 @@
 <tr><td>
 
 **🏢 Software Developer — Lovely Professional University (LPU)**
-📍 Jalandhar, Punjab &nbsp;|&nbsp; 🗓️ June 2025 – Present
+📍 Jalandhar, Punjab  |  🗓️ June 2025 – Present <br/>
 
-⚡ Shipping production-ready modules with **React.js & Next.js**, optimizing load time via code-splitting and lazy loading
-🎨 Building reusable, validated UI with **Material UI + Formik/Yup**, backed by **Redux Toolkit** for global state
-🔧 Designing **RESTful APIs** in Node.js/Express with **JWT authentication & role-based authorization**
-🗄️ Optimizing **MySQL** queries for CRUD & reporting, improving backend response times
-🤝 Working Agile/Scrum with Git/GitHub across cross-functional sprint cycles
+⚡ **Built and shipped production features** across the frontend using React.js and Next.js, improving application performance with code-splitting and lazy loading <br/>
+🧩 **Created reusable UI components and forms** with Material UI and Formik/Yup, while managing application-wide state through Redux Toolkit <br/>
+🔐 **Developed backend services and REST APIs** using Node.js and Express, with JWT authentication and role-based authorization <br/>
+🗄️ **Improved database-side performance** by writing and optimizing MySQL queries for CRUD workflows and reporting requirements <br/>
+🤝 **Worked closely with developers and stakeholders** in Agile/Scrum sprints, using Git/GitHub for collaborative development and code delivery <br/>
+
 
 </td></tr>
 </table>
